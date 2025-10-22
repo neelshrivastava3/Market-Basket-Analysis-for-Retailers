@@ -1,6 +1,6 @@
 # Market Basket Analysis for Retailers
 
-**Author:** [Neel Shrivastava](https://linkedin.com/in/neelshrivastava)  
+**[Neel Shrivastava]**(https://linkedin.com/in/neelshrivastava)  
 **Role:** Data Analyst Intern – Hackveda  
 **Date:** October 2025  
 
